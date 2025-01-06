@@ -30,6 +30,8 @@ This repository was built to showcase my analytical and technical skills, share 
   - R
     - Pokémon Viewer Retention Analysis
   - Excel
+  - Tableau
+  - Power BI
 - Education
 - Experience
 - Contact
@@ -40,9 +42,12 @@ This repository was built to showcase my analytical and technical skills, share 
 In this section, I will list my data analytics projects briefly describing the technology stack used to solve cases.
 
 
+---
 
 # Education
 Techno India University - B.Tech in Computer Science & Engineering with specialization in Artificial Intelligence, Jul 2020 - Jul 2024
+
+---
 
 # Contacts
 - LinkedIn: [@yashchowdhary](https://www.linkedin.com/in/yash-chowdhary-670b52323/)
