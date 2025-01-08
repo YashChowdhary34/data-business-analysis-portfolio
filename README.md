@@ -45,7 +45,7 @@ In this section, I will list my data analytics projects briefly describing the t
 Here I have listed all the projects that are built using Python.
 
 ### Predictive CLV and Behaviour Analysis
-Repo -> [predictive_clv_behaviour_analysis](#https://github.com/YashChowdhary34/predictive_clv_behaviour_analysis)
+Repo -> [!predictive_clv_behaviour_analysis](#https://github.com/YashChowdhary34/predictive_clv_behaviour_analysis)
 
 ##### Goal: To determine customer buying patterns based on Recency, Frequency, and Monetary Value (RFM)
 
