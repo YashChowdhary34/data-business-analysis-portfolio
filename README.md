@@ -28,8 +28,8 @@ This repository was built to showcase my analytical and technical skills, share 
   - [R](#r)
     - [Pokémon Viewer Retention Analysis](#pokémon-viewer-retention-analysis)
   - [Excel](#excel)
-  - [Tableau](#tableau)
-  - [Power BI](#power-bi)
+  - [Tableau]
+  - [Power BI]
 - [Education](#education)
 - [Experience](#experience)
 - [Contact](#contact)
@@ -120,23 +120,15 @@ Here are all the projects built using R:
 ---
 
 ### **Excel**  
-*TBD.*
+[GitHub Repo](https://github.com/YashChowdhary34/excel-bike-sales-dashboard)
 
----
-
-### **Tableau**  
-*TBD.*
-
----
-
-### **Power BI**  
-*TBD.*
+**Description:** This project focuses on analyzing bike sales data to uncover patterns and trends, ultimately providing actionable insights through an interactive dashboard. The analysis spans data cleaning, feature engineering, and visualization development, all encapsulated in an Excel workbook.
 
 ---
 
 ## **Education**
 **Techno India University**  
-**B.Tech in Computer Science & Engineering (Specialization: AI)**  
+**B.Tech in Computer Science & Engineering (Specialization: AIML)**  
 **Jul 2020 - Jul 2024**
 
 ---
