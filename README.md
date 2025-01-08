@@ -45,7 +45,7 @@ In this section, I will list my data analytics projects briefly describing the t
 Here I have listed all the projects that are built using Python.
 
 ### Predictive CLV and Behaviour Analysis
-Repo -> [!predictive_clv_behaviour_analysis](#https://github.com/YashChowdhary34/predictive_clv_behaviour_analysis)
+Repo -> [!predictive_clv_behaviour_analysis](https://github.com/YashChowdhary34/predictive_clv_behaviour_analysis)
 
 ##### Goal: To determine customer buying patterns based on Recency, Frequency, and Monetary Value (RFM)
 
@@ -56,7 +56,7 @@ Repo -> [!predictive_clv_behaviour_analysis](#https://github.com/YashChowdhary34
 ##### Results: this project provided valuable insights into customer behavior, allowing businesses to improve customer engagement, retention, and revenue.
 
 ### Multichannel Customer Scoring and Segmentation Analysis with ETL pipeline
-Repo -> [multichannel_scoring_segmentation_analysis](#https://github.com/YashChowdhary34/multichannel_scoring_segmentation_analysis)
+Repo -> [multichannel_scoring_segmentation_analysis](https://github.com/YashChowdhary34/multichannel_scoring_segmentation_analysis)
 
 ##### Goal:
 ##### Description:
@@ -65,7 +65,7 @@ Repo -> [multichannel_scoring_segmentation_analysis](#https://github.com/YashCho
 ##### Results:
 
 ### Crypto real-time data analysis and Forecasting
-Repo -> [crypto-realtime-data-analysis-python](#https://github.com/YashChowdhary34/crypto-realtime-data-analysis-python)
+Repo -> [crypto-realtime-data-analysis-python](https://github.com/YashChowdhary34/crypto-realtime-data-analysis-python)
 
 ##### Goal: To fetch crypto data from an external API, perform analysis, and automate daily email reporting.
 
@@ -79,7 +79,7 @@ Repo -> [crypto-realtime-data-analysis-python](#https://github.com/YashChowdhary
 Here I have listed all the projects that are built using SQL queries and MySQL database.
 
 ### Amazon Data Analysis
-Repo -> [amazon-data-analysis-SQL](#https://github.com/YashChowdhary34/amazon-data-analysis-SQL)
+Repo -> [amazon-data-analysis-SQL](https://github.com/YashChowdhary34/amazon-data-analysis-SQL)
 
 ##### Goal: Solve key business problems that would exist in an amazon-like scenario, directly on the database.
 
@@ -90,7 +90,7 @@ Repo -> [amazon-data-analysis-SQL](#https://github.com/YashChowdhary34/amazon-da
 ##### Results: This project demonstrates the power of SQL in solving complex business problems for an e-commerce platform. By simulating a real-world dataset, it showcases advanced querying techniques and offers actionable insights into operations, sales, and customer behavior.
 
 ### Zomato Data Analysis
-Repo -> [zomato-data-analysis-SQL](#https://github.com/YashChowdhary34/zomato-data-analysis-SQL)
+Repo -> [zomato-data-analysis-SQL](https://github.com/YashChowdhary34/zomato-data-analysis-SQL)
 
 ##### Goal: To analyze Zomato's restaurant data using SQL to extract meaningful business insights.
 
@@ -101,7 +101,7 @@ Repo -> [zomato-data-analysis-SQL](#https://github.com/YashChowdhary34/zomato-da
 ##### Results: This project showcases the application of SQL in analyzing real-world datasets to extract business insights. By examining various aspects of the Zomato dataset, we've provided valuable information that can aid in strategic decision-making for stakeholders in the food delivery industry.
 
 ### Netflix Data Analysis
-Repo -> [netflix-data-analysis-SQL](#https://github.com/YashChowdhary34/netflix-data-analysis-SQL)
+Repo -> [netflix-data-analysis-SQL](https://github.com/YashChowdhary34/netflix-data-analysis-SQL)
 
 ##### Goal: To address key business problems related to content distribution, audience preferences, and platform growth.
 
@@ -115,7 +115,7 @@ Repo -> [netflix-data-analysis-SQL](#https://github.com/YashChowdhary34/netflix-
 Here I have listed all the projects that are built using R.
 
 ### Pokémon Viewer Retention Analysis
-Repo -> [pokemon-viewer-retention-analysis](#https://github.com/YashChowdhary34/pokemon-viewer-retention-analysis)
+Repo -> [pokemon-viewer-retention-analysis](https://github.com/YashChowdhary34/pokemon-viewer-retention-analysis)
 
 ##### Goal: To identify the factors that contribute most to a Pokémon's popularity because Pokémon's popularity and viewer retention are directly proportional.
 
