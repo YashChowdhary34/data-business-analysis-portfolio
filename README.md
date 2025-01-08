@@ -20,7 +20,7 @@ This repository was built to showcase my analytical and technical skills, share 
 - About
 - Portfolio Projects
   - Python
-    - Predictive CLV and Behaviour Analysis
+    - [Predictive CLV and Behaviour Analysis](#Predictive-CLV-and-Behaviour-Analysis)
     - Multichannel Customer Scoring and Segmentation Analysis with ETL pipeline
     - Crypto real-time data analysis and Forecasting
   - SQL
