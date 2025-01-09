@@ -19,7 +19,7 @@ This repository was built to showcase my analytical and technical skills, share 
 - [Portfolio Projects](#portfolio-projects)
   - [Python](#python)
     - [Predictive CLV and Behaviour Analysis](#predictive-clv-and-behaviour-analysis)
-    - [Multichannel Customer Scoring and Segmentation Analysis with ETL Pipeline](#multichannel-customer-scoring-and-segmentation-analysis-with-etl-pipeline)
+    - [Multichannel Customer Segmentation Analysis with ETL Pipeline](#multichannel-customer-segmentation-analysis-with-etl-pipeline)
     - [Crypto Real-Time Data Analysis and Forecasting](#crypto-real-time-data-analysis-and-forecasting)
   - [SQL](#sql)
     - [Amazon Data Analysis](#amazon-data-analysis)
@@ -28,8 +28,8 @@ This repository was built to showcase my analytical and technical skills, share 
   - [R](#r)
     - [Pokémon Viewer Retention Analysis](#pokémon-viewer-retention-analysis)
   - [Excel](#excel)
-  - [Tableau]
-  - [Power BI]
+  - Tableau
+  - Power BI
 - [Education](#education)
 - [Experience](#experience)
 - [Contact](#contact)
@@ -53,14 +53,14 @@ Here are all the projects built using Python:
 - **Technology:** Python, Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, XGBoost, Plotly.  
 - **Results:** Provided insights into customer behavior to improve engagement, retention, and revenue.
 
-#### **Multichannel Customer Scoring and Segmentation Analysis with ETL Pipeline**  
+#### **Multichannel Customer Segmentation Analysis with ETL Pipeline**  
 [GitHub Repo](https://github.com/YashChowdhary34/multichannel_scoring_segmentation_analysis)
 
-- **Goal:** TBD.  
-- **Description:** TBD.  
-- **Skills:** TBD.  
-- **Technology:** TBD.  
-- **Results:** TBD.
+- **Goal:** Develop robust segmentation models, leveraging advanced analytics techniques, the aim is to identify distinct customer segments.
+- **Description:** This project has a robust ETL pipeline to automate data ingestion from APIs, databases, and local files, ensuring seamless integration. I have integrated Apache Kafka to enable real-time data streaming, ensuring continuous flow and scalability. The loaded data is then clustered and there's a separate analysis section for outliers as they are the high-spending and high-frequency customers which cannot be ignored. It's an end-to-end analysis system that focuses on customer segmentation to understand interaction patterns and tailor marketing strategies for better engagement and retention.
+- **Skills:** Data Extraction, data transformation, data cleaning, segmentation, feature engineering, clustering, data visualization
+- **Technology:** Python, Pandas, Scikit-learn, Apache Kafka, Plotly, Matplotlib, Seaborn, Numpy
+- **Results:** Demonstrated how multichannel data can be leveraged to create actionable customer segments. By combining advanced analytics with data visualization, we enable data-driven strategies to improve customer engagement and drive business growth. 
 
 #### **Crypto Real-Time Data Analysis and Forecasting**  
 [GitHub Repo](https://github.com/YashChowdhary34/crypto-realtime-data-analysis-python)
@@ -122,7 +122,7 @@ Here are all the projects built using R:
 ### **Excel**  
 [GitHub Repo](https://github.com/YashChowdhary34/excel-bike-sales-dashboard)
 
-**Description:** This project focuses on analyzing bike sales data to uncover patterns and trends, ultimately providing actionable insights through an interactive dashboard. The analysis spans data cleaning, feature engineering, and visualization development, all encapsulated in an Excel workbook.
+**Description:** This project analyzes bike sales data to uncover patterns and trends, ultimately providing actionable insights through an interactive dashboard. The analysis spans data cleaning, feature engineering, and visualization development, all encapsulated in an Excel workbook.
 
 ---
 
