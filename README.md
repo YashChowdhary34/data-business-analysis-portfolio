@@ -10,6 +10,8 @@ I enjoy exploring new data analysis tools and techniques and am always looking f
 I have an engineering background and am currently seeking opportunities in the field of data analytics/data science as an entry-level data specialist.  
 During my undergraduate years, I developed a strong foundation in core computer science, software engineering, and machine learning. I also gained experience working on study projects, developing skills to handle complex datasets, and identifying patterns and trends. Additionally, I have worked in the fields of digital marketing and content strategy.
 
+My CV in [pdf](https://github.com/YashChowdhary34/data-business-analysis-portfolio/blob/main/yashchowdhary_dataanalyst_resume.pdf).
+
 This repository was built to showcase my analytical and technical skills, share projects, and track my progress in Data Analytics / Data Science-related topics like **Excel, Python, R, SQL, Power BI, Tableau, PowerPoint**, and others.
 
 ---
