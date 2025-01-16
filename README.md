@@ -12,9 +12,9 @@ During my undergraduate years, I developed a strong foundation in core computer 
 
 My CV in [pdf](https://github.com/YashChowdhary34/data-business-analysis-portfolio/blob/main/yashchowdhary_dataanalyst_resume.pdf).
 
-Website -> [link](https://yashchowdhary34.github.io/portfolio-website/).
+Website [link](https://yashchowdhary34.github.io/portfolio-website/).
 
-This repository was built to showcase my analytical and technical skills, share projects, and track my progress in Data Analytics / Data Science-related topics like **Excel, Python, R, SQL, Power BI, Tableau, PowerPoint**, and others.
+This repository was built to showcase my analytical and technical skills, share projects, and track my progress in Data Analytics / Data Science-related topics like **Excel, Python, R, SQL(PosgresSQL, MySQL), Power BI, Tableau, PowerPoint**, and others.
 
 ---
 
@@ -104,7 +104,7 @@ Here are all the projects built using SQL and MySQL:
 - **Goal:** Analyze Zomato's restaurant data for actionable insights.  
 - **Description:** Explores Zomato’s restaurant data, examining locations, cuisines, ratings, and more to provide insights into the food delivery market.  
 - **Skills:** DBMS, ER diagrams, SQL.  
-- **Technology:** MySQL.  
+- **Technology:** PosgresSQL.  
 - **Results:** Demonstrates SQL's power in analyzing industry datasets for strategic decision-making.
 
 ---
