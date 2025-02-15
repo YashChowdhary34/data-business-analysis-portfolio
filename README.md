@@ -1,4 +1,4 @@
-# **Yash Chowdhary - Data Analyst Portfolio**
+# **Yash Chowdhary - Portfolio**
 
 ---
 
